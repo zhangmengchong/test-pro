@@ -7,6 +7,10 @@ public class Ztest {
         Stack<Integer> stack = new Stack<>();
         System.out.println("1111");
         System.out.println("1111");
+        System.out.println("1111");
+        System.out.println("1111");
+        System.out.println("1111");
+        System.out.println("1111");
     }
 
 
